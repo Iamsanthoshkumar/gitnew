@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">gitnew</string>
+
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+    <string name="name">Name</string>
+    <string name="mail">Mail</string>
+    <string name="gender">Gender</string>
+    <string name="status">Status</string>
+    <string name="save">Save</string>
+
+</resources>
